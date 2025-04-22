@@ -18,6 +18,12 @@ This page was inspired by Dr. Borlaug's work as described by:
 - Nobel Prize biography: https://www.nobelprize.org/prizes/peace/1970/borlaug/biographical/
 - Wikipedia entry: https://en.wikipedia.org/wiki/Norman_Borlaug
 
+## 🚀 Deployment
+
+Deployed with **GitHub Pages**:
+
+👉 [Live Demo](https://mustafa21102005.github.io/norman-borlaug-biography-page/)
+
 ## 🧑‍🎓 Author
 
 Made by [Mustafa](https://wa.me/966545117570), feel free to reach out for feedback or collaboration!
