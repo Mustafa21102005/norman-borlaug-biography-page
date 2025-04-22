@@ -20,5 +20,4 @@ This page was inspired by Dr. Borlaug's work as described by:
 
 ## 🧑‍🎓 Author
 
-Made by [Mustafa](https://wa.me/966545117570)
-Feel free to reach out for feedback or collaboration!
+Made by [Mustafa](https://wa.me/966545117570), feel free to reach out for feedback or collaboration!
