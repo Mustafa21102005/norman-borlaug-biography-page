@@ -1,0 +1,45 @@
+.name {
+  color: rgb(0, 19, 94);
+  border-bottom: 1px solid rgb(189, 143, 29);
+}
+
+.name2 {
+  color: rgb(0, 19, 94);
+}
+
+.margin {
+  margin: 0 700px;
+}
+
+.margin2 {
+  margin: 0 600px;
+  border-top: 1px solid;
+  padding-top: 20px;
+}
+
+.text {
+  color: rgb(189, 145, 34);
+}
+
+.pic {
+  background-color: rgb(252, 209, 157);
+  padding: 50px 0px 20px 0px;
+}
+
+.text1 {
+  margin: 0 600px;
+  color: rgb(148, 112, 21);
+}
+
+ul {
+  margin: 0 600px;
+}
+
+.list {
+  padding-bottom: 20px;
+}
+
+a {
+  color: rgb(0, 19, 94);
+  text-decoration: none;
+}
