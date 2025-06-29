@@ -1,0 +1,28 @@
+.name {
+  display: inline;
+  color: rgb(0, 19, 94);
+  border-bottom: 1px solid rgb(189, 143, 29);
+}
+
+.footer {
+  border-top: 1px solid;
+  padding-top: 20px;
+}
+
+.text {
+  color: rgb(189, 145, 34);
+}
+
+.pic {
+  background-color: rgb(252, 209, 157);
+  padding: 50px;
+}
+
+.list {
+  padding-bottom: 20px;
+}
+
+a {
+  color: rgb(0, 19, 94);
+  text-decoration: none;
+}
