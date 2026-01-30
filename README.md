@@ -24,6 +24,15 @@ This page was inspired by Dr. Borlaug's work as described by:
 
 ---
 
+## 🔗 Check It Out!
+
+👉 **Live Demo:**
+https://mustafa21102005.github.io/norman-borlaug-biography-page/
+
+Explore the biography page directly in your browser.
+
+---
+
 ## 📧 Author
 
 **Mustafa Azmi Khalil**
